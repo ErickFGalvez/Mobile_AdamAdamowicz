@@ -18,3 +18,5 @@ O tema do nosso aplicativo são as obras inclementes de Adam Adamowicz, cujas cr
 - <a href="https://github.com/ErickFGalvez/Mobile_AdamAdamowicz/wiki/Legado-na-Ind%C3%BAstria-de-Jogos">Legado na Indústria de Jogos
 - <a href ="https://github.com/ErickFGalvez/Mobile_AdamAdamowicz/wiki/Trabalhos-Anteriores-%C3%A0-Bethesda">Trabalhos Anteriores à Bethesda
 - <a href="https://github.com/ErickFGalvez/Mobile_AdamAdamowicz/wiki/T%C3%A9cnicas-Art%C3%ADsticas">Técnicas Artísticas
+- <a href="https://github.com/ErickFGalvez/Mobile_AdamAdamowicz/wiki/Diagrama">Diagrama e Levantamento 
+- <a href="">Protótipo
