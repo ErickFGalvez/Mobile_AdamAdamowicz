@@ -20,5 +20,4 @@ O tema do nosso aplicativo são as obras inclementes de Adam Adamowicz, cujas cr
 - <a href="https://github.com/ErickFGalvez/Mobile_AdamAdamowicz/wiki/T%C3%A9cnicas-Art%C3%ADsticas">Técnicas Artísticas
 - <a href="https://github.com/ErickFGalvez/Mobile_AdamAdamowicz/wiki/Diagrama">Diagrama e Levantamento 
 - <a href="https://github.com/ErickFGalvez/Mobile_AdamAdamowicz/wiki/Prototipo">Protótipo
-- <a href="">Diagrama
 - <a href="">Projeto
