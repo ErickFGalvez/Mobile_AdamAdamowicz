@@ -5,8 +5,13 @@
 Erick Felipe mendes galvez<br>
 Lucas Noel Gomes Batista<br>
  
+Arquivo no Drive
 
+https://drive.google.com/drive/folders/1K8CmNP06d-9yvASHdUleXbCQbTNhvGmy?usp=drive_link
 
+Obs = Tentamos colocar no porjeto direito o arquivo mas apareceu uma mensagem que o tipo de arquivo nao era suportado.
+
+![Screenshot 2024-11-12 183102](https://github.com/user-attachments/assets/921695f9-9153-410a-8d14-5cb67900bdb2)
 
 # Descrição:
 O tema do nosso aplicativo são as obras inclementes de Adam Adamowicz, cujas criações trazem à vida mundos sombrios e detalhados, transportando os usuários para experiências imersivas e visuais únicas.
