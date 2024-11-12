@@ -9,7 +9,7 @@ Arquivo no Drive
 
 https://drive.google.com/drive/folders/1K8CmNP06d-9yvASHdUleXbCQbTNhvGmy?usp=drive_link
 
-Obs = Tentamos colocar no porjeto direito o arquivo mas apareceu uma mensagem que o tipo de arquivo nao era suportado.
+Obs = Tentamos colocar no arquivo direto no projeto mas apareceu uma mensagem que o tipo de arquivo nao era suportado.
 
 ![Screenshot 2024-11-12 183102](https://github.com/user-attachments/assets/921695f9-9153-410a-8d14-5cb67900bdb2)
 
