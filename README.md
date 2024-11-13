@@ -5,13 +5,11 @@
 Erick Felipe mendes galvez<br>
 Lucas Noel Gomes Batista<br>
  
-Arquivo no Drive
 
-https://drive.google.com/drive/folders/1K8CmNP06d-9yvASHdUleXbCQbTNhvGmy?usp=drive_link
 
-Obs = Tentamos colocar no arquivo direto no projeto mas apareceu uma mensagem que o tipo de arquivo nao era suportado.
+Obs = Tentamos colocar no arquivo direto no projeto mas apareceu uma mensagem 
 
-![Screenshot 2024-11-12 183102](https://github.com/user-attachments/assets/921695f9-9153-410a-8d14-5cb67900bdb2)
+
 ![image](https://github.com/user-attachments/assets/57715117-44c2-4251-b98d-7845a41e4d94)
 
 
