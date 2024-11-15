@@ -149,8 +149,8 @@ class GamesScreen extends StatelessWidget {
                     style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
                   ),
                   SizedBox(height: 10),
-                  Image.network(
-                    'https://live.staticflickr.com/7206/6877198109_37238925ee.jpg', // Imagem de Fallout 3
+                  Image.asset(
+                    'fallout3.jpg', // Coloque a imagem de Fallout 3 no diretório raiz do projeto
                     height: 200,
                   ),
                   SizedBox(height: 10),
@@ -163,7 +163,7 @@ class GamesScreen extends StatelessWidget {
             ),
             SizedBox(height: 20),
 
-            // Skyrim (Imagem local)
+            // Skyrim
             Container(
               color: Colors.white.withOpacity(0.8),
               padding: EdgeInsets.all(8.0),
@@ -175,7 +175,7 @@ class GamesScreen extends StatelessWidget {
                   ),
                   SizedBox(height: 10),
                   Image.asset(
-                    'assets/imagens/sky.jpg', // A imagem de Skyrim local com o nome correto
+                    'sky.jpg', // Coloque a imagem de Skyrim com o nome correto (sky.jpg)
                     height: 200,
                   ),
                   SizedBox(height: 10),
